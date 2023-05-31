@@ -14,7 +14,6 @@ public class ForCycle {
                 System.out.println("Подходит: " + i + " * " + verificationVariable);
                 verificationVariable = 0;
             }
-            else continue;
         }
         System.out.println();
 
